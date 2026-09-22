@@ -1,0 +1,6 @@
+{
+  "name": "ScamShield - ตรวจจับเบอร์มิจฉาชีพ",
+  "description": "ระบบตรวจจับและวิเคราะห์เบอร์มิจฉาชีพ สแกมเมอร์ และสายอันตรายแบบเรียลไทม์ พร้อมการแจ้งเตือนสายเข้าและโหมดบล็อกอัตโนมัติ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
